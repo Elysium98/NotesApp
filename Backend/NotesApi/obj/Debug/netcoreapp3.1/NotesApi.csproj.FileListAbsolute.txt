@@ -1,0 +1,185 @@
+C:\Users\Paul\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Paul\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Paul\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Paul\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.exe
+C:\Users\Paul\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.deps.json
+C:\Users\Paul\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.runtimeconfig.json
+C:\Users\Paul\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.runtimeconfig.dev.json
+C:\Users\Paul\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.dll
+C:\Users\Paul\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.pdb
+C:\Users\Paul\source\repos\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.csprojAssemblyReference.cache
+C:\Users\Paul\source\repos\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.AssemblyInfoInputs.cache
+C:\Users\Paul\source\repos\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.AssemblyInfo.cs
+C:\Users\Paul\source\repos\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.RazorTargetAssemblyInfo.cache
+C:\Users\Paul\source\repos\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\staticwebassets\NotesApi.StaticWebAssets.Manifest.cache
+C:\Users\Paul\source\repos\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\staticwebassets\NotesApi.StaticWebAssets.xml
+C:\Users\Paul\source\repos\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.dll
+C:\Users\Paul\source\repos\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.pdb
+C:\Users\Paul\source\repos\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.genruntimeconfig.cache
+C:\Users\Paul\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Paul\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Paul\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Paul\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Paul\source\repos\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.csproj.CopyComplete
+C:\Users\Paul\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.xml
+C:\Users\Paul\source\repos\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.xml
+C:\Users\Paul\source\repos\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Paul\source\repos\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Paul\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\Paul\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\Paul\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\Paul\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\Paul\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\Paul\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\Paul\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\Paul\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\Paul\source\repos\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.exe
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.deps.json
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.runtimeconfig.json
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.runtimeconfig.dev.json
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.dll
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.pdb
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.xml
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.csprojAssemblyReference.cache
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.AssemblyInfoInputs.cache
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.AssemblyInfo.cs
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.RazorTargetAssemblyInfo.cache
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.csproj.CopyComplete
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\staticwebassets\NotesApi.StaticWebAssets.Manifest.cache
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\staticwebassets\NotesApi.StaticWebAssets.xml
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.dll
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.xml
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.pdb
+C:\Users\Paul\Downloads\NotesApi-2\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.genruntimeconfig.cache
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.exe
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.deps.json
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.runtimeconfig.json
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.runtimeconfig.dev.json
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.dll
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.pdb
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.xml
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.csprojAssemblyReference.cache
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.AssemblyInfoInputs.cache
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.AssemblyInfo.cs
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.RazorTargetAssemblyInfo.cache
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.csproj.CopyComplete
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\staticwebassets\NotesApi.StaticWebAssets.Manifest.cache
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\staticwebassets\NotesApi.StaticWebAssets.xml
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.dll
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.xml
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.pdb
+C:\Users\Paul\Desktop\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.genruntimeconfig.cache
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.exe
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.deps.json
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.runtimeconfig.json
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.runtimeconfig.dev.json
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.dll
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.pdb
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.xml
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\DnsClient.dll
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\SharpCompress.dll
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.csprojAssemblyReference.cache
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.AssemblyInfoInputs.cache
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.AssemblyInfo.cs
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.csproj.CoreCompileInputs.cache
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.RazorTargetAssemblyInfo.cache
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.csproj.CopyComplete
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\staticwebassets\NotesApi.StaticWebAssets.Manifest.cache
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\staticwebassets\NotesApi.StaticWebAssets.xml
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.dll
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.xml
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.pdb
+D:\Facultate\Practica Trimble\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.genruntimeconfig.cache
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.exe
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.deps.json
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.runtimeconfig.json
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.runtimeconfig.dev.json
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.dll
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.pdb
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.xml
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\DnsClient.dll
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\SharpCompress.dll
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.AssemblyInfoInputs.cache
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.AssemblyInfo.cs
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.csproj.CoreCompileInputs.cache
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.RazorTargetAssemblyInfo.cache
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.csproj.CopyComplete
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\staticwebassets\NotesApi.StaticWebAssets.Manifest.cache
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.dll
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.xml
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.pdb
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.genruntimeconfig.cache
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\bin\Debug\netcoreapp3.1\NotesApi.StaticWebAssets.xml
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.csproj.AssemblyReference.cache
+D:\Facultate\Proiect Angular\NotesApi-3\NotesApi\NotesApi\obj\Debug\netcoreapp3.1\NotesApi.GeneratedMSBuildEditorConfig.editorconfig

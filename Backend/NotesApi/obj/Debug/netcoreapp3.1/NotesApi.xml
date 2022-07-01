@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NotesApi</name>
+    </assembly>
+    <members>
+        <member name="M:NotesApi.Controllers.CategoryController.Get(System.String)">
+            <summary>
+            Test if Category controller works
+            </summary>
+            <returns></returns>
+            
+        </member>
+        <member name="F:NotesApi.Controllers.NotesController._noteCollectionService">
+            <summary>
+            Test if note controller works
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NotesApi.Controllers.NotesController.GetNotes">
+            <summary>
+            Gets all notes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:NotesApi.Controllers.NotesController.GetNoteById(System.Guid)">
+            <summary>
+            Gets a note with a certain id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:NotesApi.Controllers.NotesController.GetNotesByOwnerId(System.Guid)">
+            <summary>
+            Gets all notes from the owner with the specified id
+            </summary>
+            <param name="ownerId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:NotesApi.Controllers.NotesController.UpdateNote(System.Guid,NotesApi.Models.Note)">
+            <summary>
+            Update the note
+            </summary>
+            <param name="id"></param>
+            <param name="note"></param>
+            <returns></returns>
+        </member>
+        <member name="M:NotesApi.Controllers.NotesController.DeleteNote(System.Guid)">
+            <summary>
+            Delete the note
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:NotesApi.Controllers.NotesController.CreateNotes(NotesApi.Models.Note)">
+            <summary>
+            Add a note
+            </summary>
+            <param name="note"></param>
+            <returns></returns>
+        </member>
+        <member name="M:NotesApi.Controllers.WeatherForecastController.Get">
+            <summary>
+            Test if weather controller works
+            </summary>
+            <returns></returns>
+            
+        </member>
+    </members>
+</doc>
